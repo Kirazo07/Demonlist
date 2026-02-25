@@ -1,0 +1,18 @@
+{
+    "id": 57436521,
+    "name": "Zodiac",
+    "author": "Bianox",
+    "creators": ["Bianox", "more"],
+    "verifier": "Verifier",
+    "verification": "",
+    "percentToQualify": 56,
+    "password": "h",
+    "records": [
+        {
+            "user": "Kirazo",
+            "link": "https://blogs.mtdv.me/watch?v=HZy6ZGjl9p",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
+}
